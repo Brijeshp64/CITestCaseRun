@@ -1,0 +1,10 @@
+bin/
+obj/
+.vscode/
+.git/
+.gitignore
+YourProjectName.sln
+*.user
+*.suo
+Dockerfile
+docker-compose.yml # If you plan to use Docker Compose later
