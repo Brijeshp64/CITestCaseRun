@@ -2,9 +2,9 @@ name: .NET CI
 
 on:
   push:
-    branches: [ main ]  # change to master if you're using master
+    branches: [ master ]  # change to master if you're using master
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build-and-test:
